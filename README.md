@@ -1,16 +1,34 @@
-## Hi there 👋
+i there 👋, I'm Arthur
+Full-Stack Web Developer | React • Next.js • Laravel • PHP
 
-<!--
-**Arthour98/Arthour98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Full-Stack Web Developer with 2.5+ years of professional experience, specializing in modern frontend development with React and Next.js while also building scalable backend solutions using PHP and Laravel.
 
-Here are some ideas to get you started:
+I graduated as a Web Developer from IEK Delta and started my professional career as a Frontend Developer Intern at Myilo, where I worked on maintaining and developing features for production applications using React, Next.js, and Material UI. In addition to frontend development, I also contributed to backend functionality and API development using Laravel.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Tech Stack
+Frontend
+React
+Next.js
+JavaScript (ES6+)
+TypeScript
+HTML5
+CSS3 / SCSS
+Material UI
+Tailwind CSS
+
+Backend
+PHP
+Laravel
+REST APIs
+
+Database
+MySQL
+SQLite
+
+Tools
+Git & GitHub
+VS Code
+Webpack
+npm
+
+Also i am experimenting building Desktop apps and macros with JAVA but they are unfinished so i wont upload them in github yet !
