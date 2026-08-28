@@ -19,6 +19,8 @@ Tailwind CSS
 Backend
 PHP
 Laravel
+Nodejs
+Nextjs
 REST APIs
 
 Database
@@ -29,7 +31,11 @@ MongoDB
 Tools
 Git & GitHub
 VS Code
+Developer tools
 Webpack
-npm
+Npm
+Nmap
+Burpe suite
+Jest
 
 Also i am experimenting building Desktop apps and macros with JAVA but they are unfinished so i wont upload them in github yet !
